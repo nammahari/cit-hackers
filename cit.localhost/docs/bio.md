@@ -1,4 +1,4 @@
-# Biomedical Eng.
+# Biomedical Eng
 ## 1st Year
 ### 1st Sem
 
