@@ -8,4 +8,12 @@
 ### -> Sensors and Instrumentation Systems
 ### -> Problem Solving using C Programming
 ### -> Employability Enhancement Skills - I
-
+## These are the subject offered in second semester :
+### -> Mathematics-II Probability and Statistics 
+### -> தமிழரும்தததொழில்நுட்பமும் / Tamils and Technology
+### -> Electro Magnetic Field Theory
+### -> Communicative English - II
+### -> Electronic Devices and Circuits
+### -> Digital Logic Circuits
+### -> Data Structures using C Programming 
+### -> Employability Enhancement Skills - I
