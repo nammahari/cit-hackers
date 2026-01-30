@@ -1,4 +1,4 @@
-# SEMESTER 3
+# SEMESTER 4 
 - Computing Theory and Compiler Design
 - Big Data Analytics 
 - Machine Learning
