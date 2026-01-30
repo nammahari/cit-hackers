@@ -98,3 +98,4 @@
 - NCC courses are optional and not counted towards CGPA.
 - Curriculum follows **Regulation 2024 (R24)**.
 
+[CSE Curriculum](https://www.citchennai.edu.in/wp-content/uploads/Syllabus/R24%20%282024-28%29_CIT%20Curriculum_CSE.pdf)
