@@ -1,4 +1,8 @@
-site_name: My Docs
+site_name: CIT Curriculum
+site_url: https://cit.onlyfoss.in
+
+extra:
+  custom_domain: cit.onlyfoss.in
 
 theme:
   name: material

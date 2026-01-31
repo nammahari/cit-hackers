@@ -98,3 +98,5 @@
 - NCC courses are optional and not counted towards CGPA.
 - Curriculum follows **Regulation 2024 (R24)**.
 
+[Cit Chennai Official](https://www.citchennai.edu.in)
+
