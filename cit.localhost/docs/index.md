@@ -14,7 +14,7 @@ For [Github](https://github.com/nammahari/cit-hackers.git)
 ## For Contact
 
 - Telegram : [t.me/nammahari](t.me/nammahari)
-- Mail : hari@mahathaan.com / hari@fossuinted ( not active in social , so better to write a mail or ping in tele )
+- Mail : hari@fossuinted ( not active in social , so better to write a mail or ping in tele )
 - Linkedin : [Linkedin](https://linkedin.com/in/nammahari)
 
 ## FOSS United & Chennai Chapter
